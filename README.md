@@ -34,7 +34,7 @@
   
   📧 email: [ MohammadMahdiTanhaei@gmail.com ](mailto:MohammadMahdiTanhaei@gmail.com)
   
-  💼 Linkedin: [https://www.linkedin.com/in/m2tanhaei](https://www.linkedin.com/in/m2tanhaei)  
+  💼 Linkedin: [https://www.linkedin.com/in/m2tanhaee](https://www.linkedin.com/in/m2tanhaee)  
 </p>
 
 ---

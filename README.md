@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Mohammad Mehdi Tanhaei.👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=009688&width=435&lines=Front-End+%26+Back-End+Developer;Creative+and+passionate+about+learning+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=009688&width=435&lines=Front-End+%26+Back-End+Developer;Creative+and+passionate+about+learning+🌟" alt="Typing SVG" />
 </p>
 ---
 

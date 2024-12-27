@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Mohammad Mehdi Tanhaei.👋</h1>
+<h1 align="center">Hi, I am Mohammad Mahdi Tanhaei.👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=009688&width=470&lines=Front-End+%26+Back-End+Developer;Creative+and+eager+to+learn+🌟" alt="Typing SVG" />

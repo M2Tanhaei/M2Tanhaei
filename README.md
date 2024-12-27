@@ -1,24 +1,23 @@
-<h1 align="center">سلام! من محمد مهدی تنهایی هستم 👋</h1>
+<h1 align="center">Hi, I am Mohammad Mehdi Tanhaei.👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=009688&width=435&lines=Front-End+%26+Back-End+Developer;عاشق+یادگیری+و+خلاقیت+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=009688&width=435&lines=Front-End+%26+Back-End+Developer;Creative+and+passionate+about+learning+🌟" alt="Typing SVG" />
 </p>
-
 ---
 
-### درباره من:
-- 🌟 نام: محمد مهدی تنهایی  
-- 💻 مهارت‌ها:
+### about Me:
+- 🌟 My Name: Mohammad Mahdi Tanhaei  
+- 💻 My skills:
   - HTML / CSS  
   - JavaScript  
   - React.js  
   - Node.js  
-- 🎯 هدف من: توسعه و یادگیری مستمر در زمینه فناوری وب  
-- ✨ علایق: طراحی و توسعه رابط کاربری زیبا و پویا  
+- 🎯 My goal: Continuous development and learning in the field of web technology 
+- ✨ Interests: Designing and developing beautiful and dynamic websites
 
 ---
 
-### ابزارها و فناوری‌هایی که استفاده می‌کنم:
+###Tools and technologies I use:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -29,11 +28,10 @@
 
 ---
 
-### تماس با من:
+### Contact me:
 <p align="left">
-  📧 ایمیل: [your-email@example.com](mailto:your-email@example.com)  
-  💼 لینکدین: [LinkedIn Profile](https://linkedin.com/in/your-profile)  
-  🌐 وبسایت شخصی: [yourwebsite.com](https://yourwebsite.com)
+  📧 email: [MohammadMahdiTanhaei@gmail.com](mailto:MohammadMahdiTanhaei@gmail.com)  
+  💼 Linkedin: [https://www.linkedin.com/in/m2tanhaei](https://www.linkedin.com/in/m2tanhaei)  
 </p>
 
 ---
@@ -41,3 +39,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
 </p>
+Ⲙ²T
